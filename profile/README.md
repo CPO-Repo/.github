@@ -1,14 +1,14 @@
-# 👋 Welcome to Octane Labs
+# 👋 Welcome to CPO
 
 **Building scalable enterprise solutions with modern web technologies**
 
-Octane Labs is a technology consultancy specializing in full-stack web development, cloud infrastructure, and AI-powered automation. We create production-ready applications that solve real business problems.
+CPO is a technology consultancy specializing in full-stack web development, cloud infrastructure, and AI-powered automation. We create production-ready applications that solve real business problems.
 
 ---
 
 ## 🚀 Featured Projects
 
-### BackPricer - Intelligent Pricing Engine
+### Intelligent Pricing Engine
 A sophisticated pricing algorithm system for inventory management and marketplace optimization.
 
 **Key Features:**
@@ -87,7 +87,6 @@ Full-stack e-commerce platforms with modern user experiences and robust backend 
 - **Web Scraping:** Puppeteer, Playwright
 
 ### AI & Automation
-- **AI Integration:** Claude API workflows
 - **Algorithm Development:** Constraint satisfaction, dynamic programming
 - **Automation:** Bot operations, data synchronization
 - **Machine Learning:** Production ML pipelines
